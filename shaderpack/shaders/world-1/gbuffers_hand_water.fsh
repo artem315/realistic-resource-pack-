@@ -1,0 +1,6 @@
+#version 330 compatibility
+#define FRAGMENT
+#define GB_HAND_WATER
+#define DIM_NETHER
+/* RENDERTARGETS: 0,6 */
+#include "/program/gbuffers.glsl"
